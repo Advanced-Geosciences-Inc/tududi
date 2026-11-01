@@ -198,7 +198,7 @@
     "qs": "^6.16.0",
     "js-cookie": "^3.0.8",
     "ip-address": "^10.4.0",
-    "fast-uri": "^3.1.8",
+    "fast-uri": "^3.1.9",
     "@hono/node-server": "^2.0.5",
     "body-parser": "^1.20.6",
     "lodash-es": "^4.18.1",
